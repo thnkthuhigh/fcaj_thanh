@@ -1,0 +1,9 @@
+public/*
+
+# personal local tooling, not part of the report
+/debug.py
+/debug2.py
+/fix_titles.py
+/get_sample.ps1
+/parse.py
+/parse_cache.ps1
