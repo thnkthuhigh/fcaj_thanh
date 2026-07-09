@@ -15,6 +15,7 @@ chapter: false
     <p><strong>Email:</strong> ngchithanh.dev@gmail.com</p>
     <p><strong>Trường:</strong> Đại học Công nghệ HUTECH</p>
     <p><strong>Chuyên ngành:</strong> Công nghệ phần mềm</p>
+    <p><strong>MSSV:</strong> 2280602915</p>
     <p><strong>Lớp:</strong> 22DTHD7</p>
     <p><strong>Công ty thực tập:</strong> Amazon Web Services Viet Nam Company Limited</p>
     <p><strong>Vị trí thực tập:</strong> Workforce Bootcamp - First Cloud AI Journey</p>

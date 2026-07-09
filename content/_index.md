@@ -15,6 +15,7 @@ chapter: false
     <p><strong>Email:</strong> ngchithanh.dev@gmail.com</p>
     <p><strong>University:</strong> HUTECH University of Technology</p>
     <p><strong>Major:</strong> Software Engineering</p>
+    <p><strong>Student ID:</strong> 2280602915</p>
     <p><strong>Class:</strong> 22DTHD7</p>
     <p><strong>Internship Company:</strong> Amazon Web Services Viet Nam Company Limited</p>
     <p><strong>Internship Position:</strong> Workforce Bootcamp - First Cloud AI Journey</p>
