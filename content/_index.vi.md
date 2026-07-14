@@ -7,6 +7,14 @@ chapter: false
 
 <h1 style="text-align: center; color: #5e728b;">BÁO CÁO THỰC TẬP</h1>
 
+<div style="margin: 1.5rem 0; padding: 1.25rem 1.5rem; border: 2px solid #ff9900; border-radius: 14px; background: #fff8ec; box-shadow: 0 8px 24px rgba(255, 153, 0, 0.14);">
+  <h3 style="margin-top: 0; color: #232f3e;">Video demo và minh chứng chấm điểm</h3>
+  <p style="margin-bottom: 1rem;">Vui lòng mở thư mục Google Drive bên dưới để xem video demo dự án, ảnh chụp AWS Console và các minh chứng hỗ trợ chấm điểm.</p>
+  <a href="https://drive.google.com/drive/folders/1-mvKrbzs08WWHUT0-whSGeNwgtwd4Uid" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.75rem 1rem; border-radius: 999px; background: #ff9900; color: #111827; font-weight: 700; text-decoration: none;">
+    Mở video demo và minh chứng chấm điểm
+  </a>
+</div>
+
 ### Thông tin sinh viên:
 <div class="student-profile">
   <div class="student-profile__info">

@@ -39,6 +39,12 @@ identifier = "github"
 url = "https://github.com/thnkthuhigh"
 weight = 30
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-play-circle'></i> Video Demo & Evidence"
+identifier = "video-demo"
+url = "https://drive.google.com/drive/folders/1-mvKrbzs08WWHUT0-whSGeNwgtwd4Uid"
+weight = 10
+
 [Languages.vi]
 title = "Báo cáo thực tập"
 weight = 2
@@ -55,6 +61,12 @@ name = "<i class='fab fa-github'></i> My GitHub"
 identifier = "github"
 url = "https://github.com/thnkthuhigh"
 weight = 30
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fas fa-play-circle'></i> Video demo & minh chứng"
+identifier = "video-demo"
+url = "https://drive.google.com/drive/folders/1-mvKrbzs08WWHUT0-whSGeNwgtwd4Uid"
+weight = 10
 
 [markup]
   [markup.goldmark]
